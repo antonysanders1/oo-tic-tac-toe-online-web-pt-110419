@@ -1,5 +1,3 @@
-Tic-Tac- Toe. rb // from Angelica 
-
 class TicTacToe
   WIN_COMBINATIONS = [
     [0, 1, 2],
